@@ -1,31 +1,6 @@
-# The gallery's trip
+# Team
 
-Q1:\
-lancio piattaforme social (discord, twitter, sito web)
-
-campagna di comunicazione&#x20;
-
-recluting di nuovi artisti
-
-partner building&#x20;
-
-Q2:
-
-lancio della collezione&#x20;
-
-Inizio della campagna marketing a Venezia
-
-Creazione della galleria
-
-Allestimento della location&#x20;
-
-Q3:
-
-Opening event Digital Atelier
-
-iniziazione dei servizi
-
-
+The team is mainly composed of a lively and passionate community from Venice, who over the years have discovered and become passionate about the world of web3 and digital art. Their knowledge and love for these topics translates into a strong dedication in the organization and care of the gallery's content.
 
 
 
