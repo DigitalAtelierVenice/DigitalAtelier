@@ -1,10 +1,33 @@
----
-description: aggiungere presentazione
----
+# The gallery's trip
 
-# Black Dove
+Q1:\
+lancio piattaforme social (discord, twitter, sito web)
 
-Black Dove technology platform has been designed to offer the finest viewing experience for digital art. The smart screens provide an elegant user experience to import, purchase, manage and display digital art on any display in the world.&#x20;
+campagna di comunicazione&#x20;
 
-Customers can access their artwork on any mobile phone, via our website, or via an on-screen menu. Any display, anywhere can connect and display art within minutes.
+recluting di nuovi artisti
+
+partner building&#x20;
+
+Q2:
+
+lancio della collezione&#x20;
+
+Inizio della campagna marketing a Venezia
+
+Creazione della galleria
+
+Allestimento della location&#x20;
+
+Q3:
+
+Opening event Digital Atelier
+
+iniziazione dei servizi
+
+
+
+
+
+
 
