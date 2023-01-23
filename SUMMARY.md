@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Why Venice](README.md)
+* [Digital Atelier Pass](README.md)

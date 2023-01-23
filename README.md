@@ -1,13 +1,8 @@
-# Why Venice
+# Digital Atelier Pass
 
-Digital Atelier is born in Venice, a city known for its beauty and artistic history, with a wealth of museums, galleries and temporary exhibitions that make it one of the top tourist destinations in the world. The project aims to prove that the city is dynamic and constantly evolving, perfect for hosting an innovative gallery focused on digital art and Web3. Through cutting-edge technology and its collaboration with Black Dove, Digital Atelier will offer an experience that will engage visitors in a constantly changing digital world. The gallery will be set up almost exclusively with advanced screens that will allow to explore artworks in an interactive and engaging way.
+"DIGITAL ATELIER" is the first collection launched by the gallery. It consists of 5,000 unique 3D pieces, minted on the Solana blockchain. The goal of the collection is to create a passionate art community actively participating in the birth of the Venice gallery. This means not only raising funds to facilitate the start of the business, but also making the connection between Web3 and the art world  in a futuristic space open to the public.
 
-\
-
-
-\
-
+The launch price and date will be announced later.
 
 \
-
-
+\
