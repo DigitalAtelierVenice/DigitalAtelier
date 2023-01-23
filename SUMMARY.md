@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Digital Atelier Pass](README.md)
+* [Utilities and services](README.md)
