@@ -1,8 +1,3 @@
-# Team
+# Why us?
 
-The team is mainly composed of a lively and passionate community from Venice, who over the years have discovered and become passionate about the world of web3 and digital art. Their knowledge and love for these topics translates into a strong dedication in the organization and care of the gallery's content.
-
-
-
-
-
+We strongly believe that by bringing together the blockchain community with a real market, we will be able to attract more and more users to the web3, promoting the adoption of digital art as a means to achieve goals. Digital Atelier aims to be the pioneer of a trend that would give vital energy to all the projects that will start a business through NFT collections in the future.

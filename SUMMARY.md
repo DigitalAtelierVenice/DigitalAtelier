@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Team](README.md)
+* [Why us?](README.md)
