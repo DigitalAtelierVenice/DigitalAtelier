@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Why us?](README.md)
+* [Why Venice](README.md)
