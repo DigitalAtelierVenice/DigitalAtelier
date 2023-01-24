@@ -1,9 +1,10 @@
-# Black Dove's Screen Rental and resell
+---
+description: aggiungere presentazione
+---
 
-The gallery, through the Black Dove partnership, will set up its space with 20 to 50 smart screens. There will be a commitment to the renting and reselling of the Black Dove screens. The reselling will be done on site and online. Rentals will be completed in the following ways:
+# Black Dove
 
-* **Affiliate Partners** - these selected partners will be able to use Black Dove smart screens for exhibitions, marketing campaigns, and events within the gallery, connecting the visitors to their channels.
-* **Digital Atelier Holders** - who will benefit from discounts and incentives for use in a section of the gallery for specific periods of time from anywhere in the world.
-* **Local Organizations** - local organizations near the city can rent and hold events and exhibits to showcase their own initiatives.
-* **Rental Rates** - Through a pre-determined rate structure, other parties may rent the gallery to show off specific collections or emerging artists within the gallery.
+Black Dove technology platform has been designed to offer the finest viewing experience for digital art. The smart screens provide an elegant user experience to import, purchase, manage and display digital art on any display in the world.&#x20;
+
+Customers can access their artwork on any mobile phone, via our website, or via an on-screen menu. Any display, anywhere can connect and display art within minutes.
 
