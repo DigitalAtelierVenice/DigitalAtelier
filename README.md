@@ -1,13 +1,3 @@
-# Why Venice
+# Vision
 
-Digital Atelier will be born in Venice, a city known for its beauty and artistic history. A wealth of museums, galleries and temporary exhibits make Venice one of the top tourist destinations in the world. The project aims to prove that Venice is dynamic and constantly evolving, perfect for hosting an innovative gallery focused on digital art and Web3. Through cutting-edge technology and our collaboration with Black Dove, Digital Atelier will offer an experience that will engage visitors in a constantly changing digital world. The gallery will be set up almost exclusively with advanced screens that will allow users to explore artwork in an interactive and engaging way.
-
-\
-
-
-\
-
-
-\
-
-
+Digital Atelier is the ideal meeting place for artists, collectors, and those who want to enter the world of digital art and Web3. This project aims to create the prominent digital art gallery in the city of Venice. This art gallery will provide a physical space where visitors can experience web3, learn and contribute to the growth and development of Solana blockchain technology.

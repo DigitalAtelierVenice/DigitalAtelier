@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Why Venice](README.md)
+* [Vision](README.md)
+* [Targets](targets.md)

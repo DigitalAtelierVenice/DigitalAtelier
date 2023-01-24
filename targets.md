@@ -1,13 +1,13 @@
 # Targets
 
-Creating the first digital art gallery in Venice and offering a unique experience. Starting a business in the real world by launching an NFT collection.
+Creating the first digital art gallery in Venice will offer a unique experience in a city already rich with art history.&#x20;
 
-Attracting new users to the Solana ecosystem, involving tourists, students, and locals.&#x20;
+This business will attract new users to the Solana ecosystem, involving tourists, students, and locals.&#x20;
 
-Exhibiting and selling artworks and NFTs by selected artists, collaborating with renowned collections and valorizing local artisans.
+We will showcase exhibits, sell artwork and NFTs by selected artists, collaborate with renowned collections as well as local artisans.
 
-Offering a space on digital art through "Black Dove" smart screens using blockchain technology.
+We offer a space for digital art through "Black Dove" smart screens using blockchain technology.
 
-Expanding the gallery to other cities to support the global development of digital art and NFTs.
+Ultimately, we target expanding the gallery to other cities to support the global development of digital art and NFTs.
 
 \
