@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Vision](README.md)
-* [Targets](targets.md)
+* [Utilities and services](README.md)

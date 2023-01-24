@@ -1,3 +1,10 @@
-# Vision
+# Utilities and services
 
-Digital Atelier is the ideal meeting place for artists, collectors, and those who want to enter the world of digital art and Web3. This project aims to create the prominent digital art gallery in the city of Venice. This art gallery will provide a physical space where visitors can experience web3, learn and contribute to the growth and development of Solana blockchain technology.
+Holders will have access to a variety of exclusive benefits and services offered by the gallery:
+
+* Access to the community.
+* Showcase their own profiles and NFTs on the Black Dove's screens at the Gallery. These will be displayed for a pre-determined period of time. An incredible opportunity for artist to showcase their work at a real gallery in one of the best art cities in the world.
+* Private auctions and raffles of luxury artworks and local artisans.
+* Exclusive events.
+* Discounts and benefits on future collaborations and collections.
+* Special in-person welcome.
