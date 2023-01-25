@@ -1,4 +1,12 @@
-# Why us?
+# Black Dove
 
-We strongly believe that by bringing together the blockchain community with a real market, we will be able to attract more and more users to web3, promoting the adoption of NFTs as a means to achive goals. Digital Atelier aims to be a pioneer in onboarding the next generation of web3 enthusiasts that want to build a business in the real world by launching a collection.
+Black Dove is our first and most important partnership, we are proud to have the opportunity to work with a leader of the sector of smart displays, powered by the blockchain technology. &#x20;
+
+Black Dove technology platform has been designed to offer the finest viewing experience for digital art. The smart screens provide an elegant user experience to import, purchase, manage and display digital art on any display in the world.&#x20;
+
+Customers can access their artwork on any mobile phone, via Black Dove's website, or via an on-screen menu. Any display, anywhere can connect and display art within minutes.
+
+For more info:
+
+{% embed url="https://www.blackdove.com/home" %}
 
