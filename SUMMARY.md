@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Vision](README.md)
-* [Targets](targets.md)
+* [Black Dove](README.md)
+* [Affiliate Partners](affiliate-partners.md)
+* [Wallet provider](wallet-provider.md)
+* [Artist ](artist.md)

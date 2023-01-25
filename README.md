@@ -1,3 +1,12 @@
-# Vision
+# Black Dove
 
-Digital Atelier is the ideal meeting place for artists, collectors, and those who want to enter the world of digital art and Web3. This project aims to create the prominent digital art gallery in the city of Venice. By providing a physical space where visitors can experience web3, learn and contribute to the growth and development of Solana blockchain technology, we aim to realize our in real life business employing the launch of a NFT collection.
+Black Dove is our first and most important partnership, we are proud to have the opportunity to work with a leader of the sector of smart displays, powered by the blockchain technology. &#x20;
+
+Black Dove technology platform has been designed to offer the finest viewing experience for digital art. The smart screens provide an elegant user experience to import, purchase, manage and display digital art on any display in the world.&#x20;
+
+Customers can access their artwork on any mobile phone, via Black Dove's website, or via an on-screen menu. Any display, anywhere can connect and display art within minutes.
+
+For more info:
+
+{% embed url="https://www.blackdove.com/home" %}
+
