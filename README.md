@@ -1,12 +1,8 @@
-# Black Dove
+# Digital Atelier Pass
 
-Black Dove is our first and most important partnership, we are proud to have the opportunity to work with a leader of the sector of smart displays, powered by the blockchain technology. &#x20;
+"DIGITAL ATELIER" is the first collection launched by the gallery. It consists of 5,000 unique 3D pieces, minted on the Solana blockchain. The goal of the collection is to create a passionate art community actively participating in the birth of the Venice gallery. This means not only raising funds to facilitate the start of the business, but also making the connection between Web3 and the art world in a futuristic space open to the public.
 
-Black Dove technology platform has been designed to offer the finest viewing experience for digital art. The smart screens provide an elegant user experience to import, purchase, manage and display digital art on any display in the world.&#x20;
+Launch price and date TBA.
 
-Customers can access their artwork on any mobile phone, via Black Dove's website, or via an on-screen menu. Any display, anywhere can connect and display art within minutes.
-
-For more info:
-
-{% embed url="https://www.blackdove.com/home" %}
-
+\
+\
